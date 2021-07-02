@@ -1,10 +1,8 @@
 [package]
 name = "yew-feather"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Pedro Ferreira <me.pedro.ferreira@gmail.com>"]
 edition = "2018"
-categories = ["wasm", "web-programming"]
-keywords = ["wasm", "yew", "feather"]
 description = "Yew components for Feather icons"
 license = "MIT"
 readme = "./README.md"
